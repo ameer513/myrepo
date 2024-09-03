@@ -13,6 +13,10 @@ void mergesort()
 {
     // 
 }
+void insertionsort()
+{
+    
+}
 int main()
 {
     printf("Hello World!");
