@@ -9,6 +9,10 @@ void quciksort()
 {
     // 
 }
+void mergesort()
+{
+    // 
+}
 int main()
 {
     printf("Hello World!");
