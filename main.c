@@ -1,5 +1,11 @@
 #include<stdio.h>
+
 void bubblesort()
+{
+    // 
+}
+
+void quciksort()
 {
     // 
 }
